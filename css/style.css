@@ -67,7 +67,6 @@ section {
     color: rgb(23, 213, 154);
 }
 
-
 .grid-container {
     display: grid;
 }
@@ -75,7 +74,6 @@ section {
 .container {
     display: flex;
 }
-
 
 .grid-item {
     text-align: center;
